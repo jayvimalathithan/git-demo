@@ -1,4 +1,8 @@
 This is test text file to push in git.
 This is edited in website github.com
+<<<<<<< HEAD
 writing at third line same time after check in.
 ui 2
+=======
+test from git ui.
+>>>>>>> 75870696588002b257dbd3696ffaaab07d8d51dc
