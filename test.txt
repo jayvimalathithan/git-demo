@@ -4,3 +4,4 @@ writing at third line same time after check in.
 ui 2
 test from git ui.
 line 6 edited
+This is from master
